@@ -32,18 +32,9 @@ The homepage serves as the main landing page for users, allowing them to navigat
 
 - **React Native:** A JavaScript framework for building mobile applications.
 
-## Setup
-
-1. Clone the repository: `git clone <repository-url>`
-2. Install dependencies: `npm install`
-3. Run the application: `npm start`
-
 ## Usage
 
 1. Launch the application on a mobile device or emulator.
 2. On the homepage, choose between Screen1 and Screen2.
 3. Experience the respective functionalities of each screen.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
